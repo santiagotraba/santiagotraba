@@ -4,7 +4,7 @@
 
 ¿Que hago? Actualmente hago desarrollo de aplicaciones. Me fascina poder encontrar la solucion a los problemas con codigo.
 
-¿A donde me dirijo? Mi objetivo principal hacer mas facil la vida a la gente con codigo
+¿A donde me dirijo? Mi objetivo principal hacer mas facil la vida a la gente con codigo. 
 
 ¿Que tecnologias uso? El bootcamp de henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar por lo que las principales tecnologias que manejo son: JavaScript React.js Node.js Express.js PostgreSQL Sequelize GIT HTML CSS Redux MongoDB DaisyUI Tailwind Entre otras herramientas tengo conocimiento de Jira para la organizacion de tareas del equipo.
 
